@@ -1,8 +1,3 @@
-# react-select-tutorial
-React Dropdown Select Tutorial with React-select - learn how to create an advance dropdown select using the react-select library.
-
-[React Dropdown Select Tutorial with React-select](https://www.positronx.io/react-dropdown-select-tutorial-with-react-select/)
-
 
 ## Available Scripts
 
